@@ -1,6 +1,6 @@
 # Java Internship Projects #
 
-This repository contains **two backend projects** developed during my Java internship :
+This repository has **two backend projects** developed during my Java intern :
 
 1. **Bookstore API** – RESTful API for managing books using Spring Boot and H2 database.  
 2. **Job Portal System** – RESTful API for managing jobs, applicants, and applications using Spring Boot and MySQL.
