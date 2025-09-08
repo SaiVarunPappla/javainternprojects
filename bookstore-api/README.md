@@ -30,6 +30,9 @@ This project demonstrates CRUD operations, API documentation, and database inter
 ### Swagger UI ###
 ![Swagger UI](../Screenshots%20Bookstore-api/bookstore-api%20WholeSwaggerUI.png)
 
+### Whole Swagger UI ###
+![Whole UI](../Screenshots%20Bookstore-api/bookstore-api%20WholeUI.png)
+
 ### POST /api/books  ###
 ![POST Books](../Screenshots%20Bookstore-api/bookstore-api%20POST%20api%20books.png)
 
@@ -38,6 +41,15 @@ This project demonstrates CRUD operations, API documentation, and database inter
 
 ### H2 Console ###
 ![H2 Console](../Screenshots%20Bookstore-api/bookstore-api%20H2Console.png)
+
+### Database 1 ###
+![Database 1](../Screenshots%20Bookstore-api/bookstore-api%20Database1.png)
+
+### Database 2 ###
+![Database 2](../Screenshots%20Bookstore-api/bookstore-api%20Database2.png)
+
+### POSTMAN UI ###
+![POSTMAN UI](../Screenshots%20Bookstore-api/bookstore-api%20POSTMAN UI.png)
 
 ---
 
