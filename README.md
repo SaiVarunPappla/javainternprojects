@@ -1,4 +1,4 @@
-# Java Internship Projects #
+# Java Projects #
 
 This repository has **two backend projects** developed during my Java intern :
 
