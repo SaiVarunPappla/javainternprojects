@@ -52,8 +52,8 @@ This project demonstrates CRUD operations, API documentation, and database inter
 ---
 
 ## How to Run ##
+Move into the project folder
 ```bash
-# Move into the project folder
 cd bookstore-api
 ```
 
