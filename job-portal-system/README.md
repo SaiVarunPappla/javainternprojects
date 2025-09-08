@@ -38,6 +38,9 @@ This project simulates a mini job portal where jobs can be posted, applicants ca
 ### POST /api/jobs
 ![POST Jobs](../Screenshots%20job-portal-system/job-portal%20POST%20jobs.png)
 
+### GET /api/applications
+![GET Applications](../Screenshots%20job-portal-system/job-portal%20GET%20api%20applications.png)
+
 ### Database
 ![Database](../Screenshots%20job-portal-system/job-portal%20Database.png)
 
