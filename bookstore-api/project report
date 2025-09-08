@@ -1,0 +1,62 @@
+Project 3: RESTful Bookstore API – Project Report
+
+1. Title: RESTful Bookstore API
+
+2. Objective:
+Develop a RESTful API to manage books and authors in a bookstore. Users can create, read, and delete books, with proper relational mapping between books and authors. This project demonstrates skills in Spring Boot, JPA, H2 Database, and RESTful API development.
+
+3. Technologies Used:
+
+- Java 24
+- Spring Boot 3.4.x
+- Maven
+- H2 Database (in-memory)
+- Spring Data JPA
+- Springdoc OpenAPI / Swagger UI
+- Postman (for API testing)
+
+4. Features / Functionality:
+
+- Add a new book with author
+- List all books
+- Retrieve a book by ID
+- Delete a book
+- View database in H2 console
+- API documentation via Swagger UI
+
+5. Architecture Diagram:
+
+[Client / Postman / Swagger UI] --> [Spring Boot Controller] --> [Service Layer] --> [JPA Repository] --> [H2 Database]
+
+
+6. Sample API Endpoints:
+
+Endpoint	Method	Description
+
+- /api/books	GET	Retrieve all books
+- /api/books	POST	Add a new book
+- /api/books/{id}	GET	Get a book by ID
+- /api/books/{id}	DELETE	Delete a book by ID
+
+7. Sample JSON Payload (POST /api/books):
+
+{
+  "title": "Java Programming",
+  "isbn": "123-4567890",
+  "author": {
+    "name": "John Doe"
+  }
+}
+
+
+8. Screenshots / Testing:
+
+All Screenshots are available in the respective projecy folder
+
+9. Learning Outcomes:
+
+- Understanding of Spring Boot and Maven project setup
+- Knowledge of JPA and entity relationships
+- API design principles for RESTful services
+- Practical experience with H2 in-memory database
+- Documentation with Swagger UI

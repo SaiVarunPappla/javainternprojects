@@ -1,0 +1,59 @@
+Project 10: Job Portal System – Project Report
+
+1. Title: Job Portal System
+
+2. Objective :
+
+Develop a full-stack job portal system backend to manage users, jobs, and applications, demonstrating skills in Spring Boot, MySQL, and REST API design.
+
+3. Technologies Used:
+
+- Java 24
+- Spring Boot 3.4.x
+- Maven
+- MySQL Database
+- Spring Data JPA
+- Postman (API testing)
+
+4. Features / Functionality:
+
+- User registration and login
+- Post new jobs (admin)
+- List all jobs
+- Apply to a job
+- Track applications by user
+
+5. Architecture Diagram:
+
+[Client / Postman] --> [Spring Boot Controller] --> [Service Layer] --> [JPA Repository] --> [MySQL Database]
+
+
+6. Sample API Endpoints:
+
+Endpoint	Method	Description
+
+- /api/users	POST	Register a new user
+- /api/jobs	POST	Post a new job
+- /api/jobs	GET	List all jobs
+- /api/apply	POST	Apply for a job
+
+7. Sample JSON Payload (POST /api/jobs):
+
+{
+  "title": "Software Developer",
+  "description": "Develop and maintain Java applications",
+  "location": "Remote",
+  "salary": 60000
+}
+
+
+8. Screenshots / Testing:
+
+All Screenshots are available in the respective folders
+
+9. Learning Outcomes:
+
+- REST API development using Spring Boot
+- Handling CRUD operations in MySQL
+- Understanding relationships (user-job-application)
+- Testing APIs using Postman
