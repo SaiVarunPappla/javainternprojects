@@ -5,7 +5,7 @@ This project demonstrates CRUD operations, API documentation, and database inter
 
 ---
 
-##  Features ##
+## Features ##
 - Create, Read, Update, Delete (CRUD) operations for Books & Authors
 - In-memory **H2 Database** with web console
 - **Swagger UI** for interactive API testing
@@ -14,7 +14,7 @@ This project demonstrates CRUD operations, API documentation, and database inter
 
 ---
 
-## 🛠 Tech Stack ##
+## Tech Stack ##
 - **Backend:** Java 24, Spring Boot 3.x
 - **Database:** H2 (in-memory)
 - **API Docs:** Swagger / Springdoc OpenAPI
@@ -24,16 +24,16 @@ This project demonstrates CRUD operations, API documentation, and database inter
 
 ## Screenshots ##
 
-### Running App ###
+### Application Running ###
 ![Running Check](../Screenshots%20Bookstore-api/bookstore-api%20Running%20check.png)
+
+### Full UI ###
+![Whole UI](../Screenshots%20Bookstore-api/bookstore-api%20WholeUI.png)
 
 ### Swagger UI ###
 ![Swagger UI](../Screenshots%20Bookstore-api/bookstore-api%20WholeSwaggerUI.png)
 
-### Whole Swagger UI ###
-![Whole UI](../Screenshots%20Bookstore-api/bookstore-api%20WholeUI.png)
-
-### POST /api/books  ###
+### POST /api/books ###
 ![POST Books](../Screenshots%20Bookstore-api/bookstore-api%20POST%20api%20books.png)
 
 ### GET /api/books ###
@@ -42,14 +42,12 @@ This project demonstrates CRUD operations, API documentation, and database inter
 ### H2 Console ###
 ![H2 Console](../Screenshots%20Bookstore-api/bookstore-api%20H2Console.png)
 
-### Database 1 ###
-![Database 1](../Screenshots%20Bookstore-api/bookstore-api%20Database1.png)
+### Database Structure ###
+![Database1](../Screenshots%20Bookstore-api/bookstore-api%20database1.png)
+![Database2](../Screenshots%20Bookstore-api/bookstore-api%20database2.png)
 
-### Database 2 ###
-![Database 2](../Screenshots%20Bookstore-api/bookstore-api%20Database2.png)
-
-### POSTMAN UI ###
-![POSTMAN UI](../Screenshots%20Bookstore-api/bookstore-api%20POSTMAN UI.png)
+### Postman Testing ###
+![Postman UI](../Screenshots%20Bookstore-api/bookstore-api%20PostmanUI.png)
 
 ---
 
